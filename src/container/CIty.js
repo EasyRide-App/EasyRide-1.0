@@ -8,7 +8,7 @@ export default function City() {
     <View style={styles.container}>
      
      <View style={styles.vi}>
-     <Text style={styles.text} >Are You In This City?</Text>
+     <Text style={styles.text} >Are You In This City? ....1.0</Text>
      </View>
      
       
